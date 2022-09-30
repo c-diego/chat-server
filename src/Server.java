@@ -1,8 +1,6 @@
-package server;
-
 /**
  *
- * @author diego
+ * @author c-diego
  */
 import java.io.BufferedReader;
 import java.io.IOException;
